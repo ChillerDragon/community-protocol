@@ -12,7 +12,7 @@
 
 | Type | Name | Description |
 | ---- | ---- | ----------- |
-| String | Langugage | [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) language code for examaple: ``en`` for english and ``de`` for german |
+| String | Language | [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) language code for examaple: ``en`` for english and ``de`` for german |
 
 **IMPLEMENTATIONS**:
 
