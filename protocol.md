@@ -18,7 +18,7 @@
 
 | Project | Details |
 | ------- | ------- |
-| | |
+| [Kaizo Client](https://github.com/M0REKZ/kaizo-client) | Client will send one or multiple messages with a language code from /languages/index.txt based on selected client language |
 
 **DESCRIPTION**:
 
